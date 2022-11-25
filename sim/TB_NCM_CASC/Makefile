@@ -7,8 +7,8 @@ VIEW=Sch
 OPT=
 
 netlist:
-	cd ../../work && xschem -q -x -b -s -n ../design/TB_SUN_TR_SKY130NM/TB_NCM.sch
-	perl -pi -e "s/\*\*\.subckt/\.subckt/ig;s/\*\*\.ends/\.ends/ig;" ../../work/xsch/TB_NCM.spice
+	cd ../../work && xschem -q -x -b -s -n ../design/TB_SUN_TR_SKY130NM/TB_NCM_CASC.sch
+	perl -pi -e "s/\*\*\.subckt/\.subckt/ig;s/\*\*\.ends/\.ends/ig;" ../../work/xsch/TB_NCM_CASC.spice
 
 test:
 	${MAKE} typical OPT="Debug"
