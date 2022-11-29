@@ -223,9 +223,3 @@ Some cells may come in multiple drive strengths.
 | ERC                         | VER  | :x:                |         |
 | ANT                         | VER  | :x:                |         |
 
-
-
-# TODO
-- Reset issue with DFRNQNX1_CV. If reset enabled, and disabled, it is equivalent
-  to toggling the clock. Works OK for registers, and shift registers. Fails as
-  PDF in PLL. 
