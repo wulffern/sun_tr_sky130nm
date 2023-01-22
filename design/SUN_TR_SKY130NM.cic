@@ -948,11 +948,11 @@
                         ],
                         "properties": {
                             "drainWidth": 0.44,
-                            "length": 0.17999999999999999,
+                            "length": 0.18,
                             "multiplier": 1,
                             "nf": 1,
                             "sourceWidth": 0.44,
-                            "width": 1.0800000000000001
+                            "width": 1.08
                         }
                     }
                 ],
@@ -1482,11 +1482,11 @@
                         ],
                         "properties": {
                             "drainWidth": 0.44,
-                            "length": 0.17999999999999999,
+                            "length": 0.18,
                             "multiplier": 1,
                             "nf": 1,
                             "sourceWidth": 0.44,
-                            "width": 1.0800000000000001
+                            "width": 1.08
                         }
                     }
                 ],
@@ -1980,11 +1980,11 @@
                         ],
                         "properties": {
                             "drainWidth": 0.44,
-                            "length": 0.17999999999999999,
+                            "length": 0.18,
                             "multiplier": 1,
                             "nf": 1,
                             "sourceWidth": 0.44,
-                            "width": 1.0800000000000001
+                            "width": 1.08
                         }
                     }
                 ],
@@ -2514,11 +2514,11 @@
                         ],
                         "properties": {
                             "drainWidth": 0.44,
-                            "length": 0.17999999999999999,
+                            "length": 0.18,
                             "multiplier": 1,
                             "nf": 1,
                             "sourceWidth": 0.44,
-                            "width": 1.0800000000000001
+                            "width": 1.08
                         }
                     }
                 ],
@@ -3021,11 +3021,11 @@
                         ],
                         "properties": {
                             "drainWidth": 0.44,
-                            "length": 0.17999999999999999,
+                            "length": 0.18,
                             "multiplier": 1,
                             "nf": 1,
                             "sourceWidth": 0.44,
-                            "width": 1.0800000000000001
+                            "width": 1.08
                         }
                     }
                 ],
@@ -3565,11 +3565,11 @@
                         ],
                         "properties": {
                             "drainWidth": 0.44,
-                            "length": 0.35999999999999999,
+                            "length": 0.36,
                             "multiplier": 1,
                             "nf": 1,
                             "sourceWidth": 0.44,
-                            "width": 1.0800000000000001
+                            "width": 1.08
                         }
                     }
                 ],
@@ -4073,11 +4073,11 @@
                         ],
                         "properties": {
                             "drainWidth": 0.44,
-                            "length": 0.17999999999999999,
+                            "length": 0.18,
                             "multiplier": 1,
                             "nf": 1,
                             "sourceWidth": 0.44,
-                            "width": 1.0800000000000001
+                            "width": 1.08
                         }
                     }
                 ],
@@ -4617,11 +4617,11 @@
                         ],
                         "properties": {
                             "drainWidth": 0.44,
-                            "length": 0.35999999999999999,
+                            "length": 0.36,
                             "multiplier": 1,
                             "nf": 1,
                             "sourceWidth": 0.44,
-                            "width": 1.0800000000000001
+                            "width": 1.08
                         }
                     }
                 ],
@@ -5125,11 +5125,11 @@
                         ],
                         "properties": {
                             "drainWidth": 0.44,
-                            "length": 0.17999999999999999,
+                            "length": 0.18,
                             "multiplier": 1,
                             "nf": 1,
                             "sourceWidth": 0.44,
-                            "width": 1.0800000000000001
+                            "width": 1.08
                         }
                     }
                 ],
@@ -5823,7 +5823,7 @@
                         ],
                         "properties": {
                             "layer": "M1",
-                            "length": 0.35999999999999999,
+                            "length": 0.36,
                             "width": 0.44
                         }
                     },
@@ -5837,7 +5837,7 @@
                         ],
                         "properties": {
                             "layer": "M1",
-                            "length": 0.35999999999999999,
+                            "length": 0.36,
                             "width": 0.44
                         }
                     }
@@ -5850,8 +5850,8 @@
                     "B"
                 ],
                 "properties": {
-                    "height": 7.9199999999999999,
-                    "width": 12.960000000000001
+                    "height": 7.92,
+                    "width": 12.96
                 }
             },
             "class": "cIcCore::PatternCapacitor",
@@ -14330,9 +14330,9 @@
                             "B"
                         ],
                         "properties": {
-                            "length": 8.8000000000000007,
+                            "length": 8.8,
                             "nf": 2,
-                            "width": 0.71999999999999997
+                            "width": 0.72
                         }
                     }
                 ],
@@ -15393,9 +15393,9 @@
                             "B"
                         ],
                         "properties": {
-                            "length": 8.8000000000000007,
+                            "length": 8.8,
                             "nf": 4,
-                            "width": 0.71999999999999997
+                            "width": 0.72
                         }
                     }
                 ],
@@ -17194,9 +17194,9 @@
                             "B"
                         ],
                         "properties": {
-                            "length": 8.8000000000000007,
+                            "length": 8.8,
                             "nf": 8,
-                            "width": 0.71999999999999997
+                            "width": 0.72
                         }
                     }
                 ],
@@ -20471,9 +20471,9 @@
                             "B"
                         ],
                         "properties": {
-                            "length": 8.8000000000000007,
+                            "length": 8.8,
                             "nf": 16,
-                            "width": 0.71999999999999997
+                            "width": 0.72
                         }
                     }
                 ],
@@ -70405,7 +70405,7 @@
                         ],
                         "properties": {
                             "layer": "M4",
-                            "length": 0.35999999999999999,
+                            "length": 0.36,
                             "width": 0.44
                         }
                     },
@@ -70419,7 +70419,7 @@
                         ],
                         "properties": {
                             "layer": "M4",
-                            "length": 0.35999999999999999,
+                            "length": 0.36,
                             "width": 0.44
                         }
                     }
@@ -70432,8 +70432,8 @@
                     "B"
                 ],
                 "properties": {
-                    "height": 5.2800000000000002,
-                    "width": 7.5599999999999996
+                    "height": 5.28,
+                    "width": 7.56
                 }
             },
             "class": "cIcCore::PatternCapacitor",
@@ -75073,7 +75073,7 @@
                         ],
                         "properties": {
                             "layer": "M4",
-                            "length": 0.35999999999999999,
+                            "length": 0.36,
                             "width": 0.44
                         }
                     },
@@ -75087,7 +75087,7 @@
                         ],
                         "properties": {
                             "layer": "M4",
-                            "length": 0.35999999999999999,
+                            "length": 0.36,
                             "width": 0.44
                         }
                     }
@@ -75100,8 +75100,8 @@
                     "B"
                 ],
                 "properties": {
-                    "height": 5.2800000000000002,
-                    "width": 8.2799999999999994
+                    "height": 5.28,
+                    "width": 8.28
                 }
             },
             "class": "cIcCore::PatternCapacitor",
@@ -79743,7 +79743,7 @@
                         ],
                         "properties": {
                             "layer": "M4",
-                            "length": 0.35999999999999999,
+                            "length": 0.36,
                             "width": 0.44
                         }
                     },
@@ -79757,7 +79757,7 @@
                         ],
                         "properties": {
                             "layer": "M4",
-                            "length": 0.35999999999999999,
+                            "length": 0.36,
                             "width": 0.44
                         }
                     }
@@ -79770,7 +79770,7 @@
                     "B"
                 ],
                 "properties": {
-                    "height": 5.2800000000000002,
+                    "height": 5.28,
                     "width": 14.76
                 }
             },
@@ -84413,7 +84413,7 @@
                         ],
                         "properties": {
                             "layer": "M4",
-                            "length": 0.35999999999999999,
+                            "length": 0.36,
                             "width": 0.44
                         }
                     },
@@ -84427,7 +84427,7 @@
                         ],
                         "properties": {
                             "layer": "M4",
-                            "length": 0.35999999999999999,
+                            "length": 0.36,
                             "width": 0.44
                         }
                     }
@@ -84440,7 +84440,7 @@
                     "B"
                 ],
                 "properties": {
-                    "height": 5.2800000000000002,
+                    "height": 5.28,
                     "width": 27
                 }
             },
@@ -84472,12 +84472,12 @@
     "info": {
         "arguments": "/Users/wulff/lpro/aicex/ip/sun_tr_sky130nm/design/../../ciccreator/bin/darwin/cic.app/Contents/MacOS/cic ../cic/ip.json ../cic/sky130.tech SUN_TR_SKY130NM",
         "file": "../cic/ip.json",
-        "hash": "0.1.4-74-g535694b",
+        "hash": "0.1.5-1-g9e82eba",
         "includepaths": "../cic",
         "libpaths": "",
         "library": "SUN_TR_SKY130NM",
         "prefix": "",
         "rules": "../cic/sky130.tech",
-        "version": "0.1.4+ built on Fri Nov 25 21:34:47 CET 2022"
+        "version": "0.1.5+ built on Sun Jan 22 22:15:32 CET 2023"
     }
 }

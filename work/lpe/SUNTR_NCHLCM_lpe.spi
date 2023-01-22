@@ -1,0 +1,14 @@
+* NGSPICE file created from SUNTR_NCHLCM.ext - technology: sky130B
+
+.subckt SUNTR_NCHLCM D G S B
+X0 M1/S G S B sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=5.184e+11p ps=3.12e+06u w=1.08e+06u l=360000u
+X1 M2/S G M1/S B sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=360000u
+X2 M3/S G M2/S B sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=360000u
+X3 M6/S G M3/S B sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=360000u
+X4 M7/S G M6/S B sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=360000u
+X5 M8/S G M7/S B sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=360000u
+X6 D G M8/S B sky130_fd_pr__nfet_01v8 ad=5.184e+11p pd=3.12e+06u as=0p ps=0u w=1.08e+06u l=360000u
+C0 M8/a_324_492# B 0.43fF $ **FLOATING
+C1 G B 2.67fF
+C2 M0/a_324_n36# B 0.43fF $ **FLOATING
+.ends

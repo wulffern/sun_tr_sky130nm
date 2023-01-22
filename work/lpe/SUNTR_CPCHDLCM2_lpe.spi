@@ -1,0 +1,21 @@
+* NGSPICE file created from SUNTR_CPCHDLCM2.ext - technology: sky130B
+
+.subckt SUNTR_CPCHDLCM2 D G CG S CS B
+X0 M0/M0/M7/S G S B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=1.2312e+12p ps=6.6e+06u w=1.08e+06u l=180000u
+X1 CS G M0/M0/M7/S B sky130_fd_pr__pfet_01v8 ad=4.73042e+12p pd=2.3885e+07u as=0p ps=0u w=1.08e+06u l=180000u
+X2 M0/M1/M7/S G CS B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X3 S G M0/M1/M7/S B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X4 D CG CS B sky130_fd_pr__pfet_01v8 ad=3.02403e+12p pd=1.4245e+07u as=0p ps=0u w=1.08e+06u l=180000u
+X5 CS CG D B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X6 D CG CS B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X7 D CG CS B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X8 CS CG D B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X9 CS CG D B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X10 D CG CS B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X11 CS CG D B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+C0 D CS 0.55fF
+C1 B CS 0.42fF
+C2 B CG 1.42fF
+C3 B G 0.75fF
+C4 B 0 13.15fF
+.ends

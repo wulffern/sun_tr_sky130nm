@@ -1,0 +1,7 @@
+* NGSPICE file created from SUNTR_NCHDLA.ext - technology: sky130B
+
+.subckt SUNTR_NCHDLA D G S B
+X0 D G S B sky130_fd_pr__nfet_01v8 ad=7.56025e+11p pd=3.565e+06u as=1.2312e+12p ps=6.6e+06u w=1.08e+06u l=180000u
+X1 S G D B sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+C0 G B 0.51fF
+.ends

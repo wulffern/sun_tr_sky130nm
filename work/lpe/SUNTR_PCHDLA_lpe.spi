@@ -1,0 +1,16 @@
+* NGSPICE file created from SUNTR_PCHDLA.ext - technology: sky130B
+
+.subckt SUNTR_PCHDLA D G S B
+X0 D G S B sky130_fd_pr__pfet_01v8 ad=3.02403e+12p pd=1.4245e+07u as=3.49922e+12p ps=1.7285e+07u w=1.08e+06u l=180000u
+X1 S G D B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X2 D G S B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X3 D G S B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X4 S G D B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X5 S G D B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X6 D G S B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+X7 S G D B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1.08e+06u l=180000u
+C0 D S 0.52fF
+C1 B G 1.39fF
+C2 G 0 0.43fF
+C3 B 0 8.38fF
+.ends

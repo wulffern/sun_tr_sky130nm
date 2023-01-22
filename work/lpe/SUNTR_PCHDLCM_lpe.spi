@@ -1,0 +1,7 @@
+* NGSPICE file created from SUNTR_PCHDLCM.ext - technology: sky130B
+
+.subckt SUNTR_PCHDLCM D G S B
+X0 M7/S G S B sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=6.156e+11p ps=3.3e+06u w=1.08e+06u l=180000u
+X1 D G M7/S B sky130_fd_pr__pfet_01v8 ad=6.156e+11p pd=3.3e+06u as=0p ps=0u w=1.08e+06u l=180000u
+C0 B 0 3.62fF
+.ends
