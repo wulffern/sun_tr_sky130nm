@@ -17,28 +17,32 @@ genspi:
 	python3 genspi.py
 
 typical:
-	cicsim run ${TB} ${OPT} ${VIEW} Gt Att Tt Vt
+	cicsim run --name typical ${TB} ${OPT} ${VIEW} Gt Ktt Tt Vt
 
 slow:
-	cicsim run ${TB} ${OPT} ${VIEW} Gt Ass "Th,Tl" Vl
+	cicsim run --name slow ${TB} ${OPT} ${VIEW} Gt Kss "Th,Tl" Vl
 
 fast:
-	cicsim run ${TB} ${OPT} ${VIEW} Gt Aff "Th,Tl" Vh
+	cicsim run --name fast ${TB} ${OPT} ${VIEW} Gt Kff "Th,Tl" Vh
 
 tfs:
-	cicsim run ${TB} ${OPT} ${VIEW} Gt "Att,Ass,Aff"  "Tt,Th,Tl" Vt
+	cicsim run --name tfs ${TB} ${OPT} ${VIEW} Gt "Ktt,Kss,Kff"  "Tt,Th,Tl" Vt
 
 ttffss:
-	cicsim run ${TB} ${OPT} ${VIEW} Gt "Att,Ass,Aff" "Tt" Vt
+	cicsim run --name ttffss ${TB} ${OPT} ${VIEW} Gt "Ktt,Kss,Kff" "Tt" Vt
 
 temp:
-	cicsim run ${TB} ${OPT} ${VIEW} Gt "Att" "Tt,Th,Tl" Vt
+	cicsim run --name temp ${TB} ${OPT} ${VIEW} Gt "Ktt" "Tt,Th,Tl" Vt
 
 tfsp:
 	python3 plot_idgm.py ${TB}_${VIEW}GtAttAssAffTtThTlVt.run ${OPT}
 
 test:
 	${MAKE} tfs tfsp
+
+summary:
+	cicsim summary --output "README.md"
+	pandoc -s README.md -o README.html
 
 clean:
 	-rm -rf output_*
