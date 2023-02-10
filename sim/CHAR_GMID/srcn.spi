@@ -15,7 +15,7 @@
 *----------------------------------------------------------------
 VSS VSS 0 dc 0
 INN 0 N1_REF dc 1u
-VREF N1_REF 0 dc 0.5
+VREF N1_REF 0 dc 1
 
 BINN 0 N1 i=i(VREF) tc1=0
 

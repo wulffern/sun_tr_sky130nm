@@ -6,11 +6,11 @@ VIEW=Sch
 
 OPT=
 
-TBS=idgm_nchdla idgm_pchdla idgm_nchdlcm idgm_pchdlcm idgm_nchl idgm_pchl idgm_nchla idgm_pchla idgm_nchlcm idgm_pchlcm
+TBS=nchdla pchdla nchdlcm pchdlcm nchl pchl nchla pchla nchlcm pchlcm
 
 CORNER=tfs
 
-all:
+all: genspi
 	${foreach f,${TBS}, make ${CORNER} TB=${f};}
 
 genspi:
@@ -45,6 +45,7 @@ summary:
 	pandoc -s README.md -o README.html
 
 clean:
+	${foreach f,${TBS}, rm ${f}.spi ${f}.meas ${f}.yaml;}
 	-rm -rf output_*
 	-rm -rf __pycache__
 	-rm *.run

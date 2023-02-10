@@ -1,32 +1,118 @@
+
 description: |
   ---
   layout: post
   title: ID char
   categories: sim
   ---
-
-
 simulations:
-  srcn:
+
+
+  nchdl:
     name: NCHDL
     description:
     data:
-      - name: Sch_typ
-        src: results/nchdl_typical
-        method: typical
-  srcp:
+      - name: Sch_tfs
+        src: results/nchdl_tfs
+        method: minmax
+
+ 
+  pchdl:
     name: PCHDL
     description:
     data:
-      - name: Sch_typ
-        src: results/nchdl_typical
-        method: typical
-#      - name: Sch_etc
-#        src: results/lstb_Sch_etc
-#        method: minmax
-#      - name: Sch_3std
-#        src: results/lstb_Sch_mc
-#        method: 3std
-#      - name: Sch_std
-#        src: results/lstb_Sch_mc
-#        method: std
+      - name: Sch_tfs
+        src: results/pchdl_tfs
+        method: minmax
+
+ 
+  nchdla:
+    name: NCHDLA
+    description:
+    data:
+      - name: Sch_tfs
+        src: results/nchdla_tfs
+        method: minmax
+
+ 
+  pchdla:
+    name: PCHDLA
+    description:
+    data:
+      - name: Sch_tfs
+        src: results/pchdla_tfs
+        method: minmax
+
+ 
+  nchdlcm:
+    name: NCHDLCM
+    description:
+    data:
+      - name: Sch_tfs
+        src: results/nchdlcm_tfs
+        method: minmax
+
+ 
+  pchdlcm:
+    name: PCHDLCM
+    description:
+    data:
+      - name: Sch_tfs
+        src: results/pchdlcm_tfs
+        method: minmax
+
+ 
+  nchl:
+    name: NCHL
+    description:
+    data:
+      - name: Sch_tfs
+        src: results/nchl_tfs
+        method: minmax
+
+ 
+  pchl:
+    name: PCHL
+    description:
+    data:
+      - name: Sch_tfs
+        src: results/pchl_tfs
+        method: minmax
+
+ 
+  nchla:
+    name: NCHLA
+    description:
+    data:
+      - name: Sch_tfs
+        src: results/nchla_tfs
+        method: minmax
+
+ 
+  pchla:
+    name: PCHLA
+    description:
+    data:
+      - name: Sch_tfs
+        src: results/pchla_tfs
+        method: minmax
+
+ 
+  nchlcm:
+    name: NCHLCM
+    description:
+    data:
+      - name: Sch_tfs
+        src: results/nchlcm_tfs
+        method: minmax
+
+ 
+  pchlcm:
+    name: PCHLCM
+    description:
+    data:
+      - name: Sch_tfs
+        src: results/pchlcm_tfs
+        method: minmax
+
+ 
