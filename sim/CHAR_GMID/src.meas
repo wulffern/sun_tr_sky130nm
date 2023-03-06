@@ -5,16 +5,16 @@ load {cicname}.raw
 
 echo "MEAS_START"
 
-meas dc gmid10_id find i(INN) when v(gmid)=10
-meas dc gmid10_vgs find v(N1) when v(gmid)=10
-meas dc gmid10_rds find v(rds) when v(gmid)=10
-meas dc gmid10_gmrds find v(gmrds) when v(gmid)=10
-meas dc gmid10_gmrds_db find v(gmrds_db) when v(gmid)=10
-meas dc gmid15_id find i(INN) when v(gmid)=15
-meas dc gmid15_vgs find v(N1) when v(gmid)=15
-meas dc gmid15_rds find v(rds) when v(gmid)=15
-meas dc gmid15_gmrds find v(gmrds) when v(gmid)=15
-meas dc gmid15_gmrds_db find v(gmrds_db) when v(gmid)=15
+meas dc gmid10_id find i(INN) when gmid=10
+meas dc gmid10_vgs find v(N1) when gmid=10
+meas dc gmid10_rds find v(rds) when gmid=10
+meas dc gmid10_gmgds find v(gmrds) when gmid=10
+meas dc gmid10_gmgds_db find v(gmrds_db) when gmid=10
+meas dc gmid15_id find i(INN) when gmid=15
+meas dc gmid15_vgs find v(N1) when gmid=15
+meas dc gmid15_rds find v(rds) when gmid=15
+meas dc gmid15_gmgds find v(gmrds) when gmid=15
+meas dc gmid15_gmgds_db find v(gmrds_db) when gmid=15
 
 echo "MEAS_END"
 .endc
