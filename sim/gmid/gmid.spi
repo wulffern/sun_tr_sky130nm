@@ -1,6 +1,6 @@
 * gm/Id simulation
 
-.param ll=0.26 vg=1 vd=0.7 vdd=1.8
+.param ll=0.26 vg=1 vd=0.2 vdd=1.8
 .option TNOM=27
 
 vg vg 0 vg
@@ -39,17 +39,24 @@ save all
 + @m.xmp.msky130_fd_pr__pfet_01v8[l]
 
 
-foreach tx_len 0.18
-alterparam ll = $tx_len
+foreach tx_len 0.18 0.36
+*alter ll=$tx_len
+alter @m.xmn.msky130_fd_pr__nfet_01v8 l=0.18u
+*alterp @m.xmn.msky130_fd_pr__nfet_01v8[l]
 dc vg 0.2 1.8 0.01
-
-
 let id = @m.xmn.msky130_fd_pr__nfet_01v8[id]
 let wl = (@m.xmn.msky130_fd_pr__nfet_01v8[w]/@m.xmn.msky130_fd_pr__nfet_01v8[l])
 let ut = 1/(boltz/echarge*(27 - kelvin))
-let gmid = @m.xmn.msky130_fd_pr__nfet_01v8[gm]/id/ut
+let gm = @m.xmn.msky130_fd_pr__nfet_01v8[gm]
+let gmid = gm/id
+let gds = @m.xmn.msky130_fd_pr__nfet_01v8[gds]
+let gmgds = gm/gds
+let gmgdsdB = 20*log10(gmgds)
+let ngmid = gmid/ut
 let idgm = 1/gmid
 let didgm = deriv(idgm)
+print $tx_len
+print wl
 write {cicname}.raw
 set appendwrite
 end

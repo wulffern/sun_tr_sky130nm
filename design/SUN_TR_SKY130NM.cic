@@ -6944,6 +6944,212 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N0"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M4",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M5",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M8",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "G"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "S"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M4",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M5",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M8",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N1"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N2"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M3",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M4",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N3"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M4",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M5",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N4"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M5",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N5"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M6",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N6"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M7",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M8",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N7"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M8",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -8055,6 +8261,170 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N0"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M8",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "G"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "S"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M8",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N1"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N2"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M3",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N3"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M6",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N6"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M7",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M8",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N7"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M8",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -8396,6 +8766,65 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N0"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "G"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "S"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M7",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -8777,6 +9206,65 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N0"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "G"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "S"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M7",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -9176,6 +9664,60 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "D"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "G"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "S"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -9615,6 +10157,60 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "D"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "G"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "S"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -10753,6 +11349,156 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M4",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M5",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "D"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M4",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M5",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "G"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M4",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M5",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "S"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M4",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M5",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -11954,6 +12700,156 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M4",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M5",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "D"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M4",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M5",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "G"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M4",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M5",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "S"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M3",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M4",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M5",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M6",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M7",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -12393,6 +13289,60 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "D"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "G"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "S"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -12890,6 +13840,60 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "D"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "G"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "S"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -13275,6 +14279,70 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "CS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "G"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "S"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "CG"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -13659,6 +14727,70 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "CS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "G"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "S"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "M1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "M1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "CG"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -20912,6 +22044,15 @@
                                 },
                                 {
                                     "class": "Rect",
+                                    "layer": "M1",
+                                    "net": "",
+                                    "x1": 800,
+                                    "x2": 132800,
+                                    "y1": 800,
+                                    "y2": 6400
+                                },
+                                {
+                                    "class": "Rect",
                                     "layer": "PTAP",
                                     "net": "",
                                     "x1": 0,
@@ -21243,6 +22384,15 @@
                                 {
                                     "class": "Rect",
                                     "layer": "OD",
+                                    "net": "",
+                                    "x1": 800,
+                                    "x2": 132800,
+                                    "y1": 205400,
+                                    "y2": 211000
+                                },
+                                {
+                                    "class": "Rect",
+                                    "layer": "M1",
                                     "net": "",
                                     "x1": 800,
                                     "x2": 132800,
@@ -21762,6 +22912,15 @@
                                 {
                                     "class": "Rect",
                                     "layer": "OD",
+                                    "net": "",
+                                    "x1": 800,
+                                    "x2": 6400,
+                                    "y1": 800,
+                                    "y2": 211000
+                                },
+                                {
+                                    "class": "Rect",
+                                    "layer": "M1",
                                     "net": "",
                                     "x1": 800,
                                     "x2": 6400,
@@ -22289,6 +23448,15 @@
                                 },
                                 {
                                     "class": "Rect",
+                                    "layer": "M1",
+                                    "net": "",
+                                    "x1": 127200,
+                                    "x2": 132800,
+                                    "y1": 800,
+                                    "y2": 211000
+                                },
+                                {
+                                    "class": "Rect",
                                     "layer": "PTAP",
                                     "net": "",
                                     "x1": 126400,
@@ -22395,6 +23563,26 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "N"
+                        }
+                    ],
+                    "node": "N"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "P"
+                        }
+                    ],
+                    "node": "P"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -22913,6 +24101,15 @@
                                 },
                                 {
                                     "class": "Rect",
+                                    "layer": "M1",
+                                    "net": "",
+                                    "x1": 800,
+                                    "x2": 176000,
+                                    "y1": 800,
+                                    "y2": 6400
+                                },
+                                {
+                                    "class": "Rect",
                                     "layer": "PTAP",
                                     "net": "",
                                     "x1": 0,
@@ -23343,6 +24540,15 @@
                                 {
                                     "class": "Rect",
                                     "layer": "OD",
+                                    "net": "",
+                                    "x1": 800,
+                                    "x2": 176000,
+                                    "y1": 205400,
+                                    "y2": 211000
+                                },
+                                {
+                                    "class": "Rect",
+                                    "layer": "M1",
                                     "net": "",
                                     "x1": 800,
                                     "x2": 176000,
@@ -23870,6 +25076,15 @@
                                 },
                                 {
                                     "class": "Rect",
+                                    "layer": "M1",
+                                    "net": "",
+                                    "x1": 800,
+                                    "x2": 6400,
+                                    "y1": 800,
+                                    "y2": 211000
+                                },
+                                {
+                                    "class": "Rect",
                                     "layer": "PTAP",
                                     "net": "",
                                     "x1": 0,
@@ -24389,6 +25604,15 @@
                                 },
                                 {
                                     "class": "Rect",
+                                    "layer": "M1",
+                                    "net": "",
+                                    "x1": 170400,
+                                    "x2": 176000,
+                                    "y1": 800,
+                                    "y2": 211000
+                                },
+                                {
+                                    "class": "Rect",
                                     "layer": "PTAP",
                                     "net": "",
                                     "x1": 169600,
@@ -24495,6 +25719,26 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "N"
+                        }
+                    ],
+                    "node": "N"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "P"
+                        }
+                    ],
+                    "node": "P"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -25211,6 +26455,15 @@
                                 },
                                 {
                                     "class": "Rect",
+                                    "layer": "M1",
+                                    "net": "",
+                                    "x1": 800,
+                                    "x2": 262400,
+                                    "y1": 800,
+                                    "y2": 6400
+                                },
+                                {
+                                    "class": "Rect",
                                     "layer": "PTAP",
                                     "net": "",
                                     "x1": 0,
@@ -25847,6 +27100,15 @@
                                 },
                                 {
                                     "class": "Rect",
+                                    "layer": "M1",
+                                    "net": "",
+                                    "x1": 800,
+                                    "x2": 262400,
+                                    "y1": 205400,
+                                    "y2": 211000
+                                },
+                                {
+                                    "class": "Rect",
                                     "layer": "PTAP",
                                     "net": "",
                                     "x1": 0,
@@ -26358,6 +27620,15 @@
                                 {
                                     "class": "Rect",
                                     "layer": "OD",
+                                    "net": "",
+                                    "x1": 800,
+                                    "x2": 6400,
+                                    "y1": 800,
+                                    "y2": 211000
+                                },
+                                {
+                                    "class": "Rect",
+                                    "layer": "M1",
                                     "net": "",
                                     "x1": 800,
                                     "x2": 6400,
@@ -26885,6 +28156,15 @@
                                 },
                                 {
                                     "class": "Rect",
+                                    "layer": "M1",
+                                    "net": "",
+                                    "x1": 256800,
+                                    "x2": 262400,
+                                    "y1": 800,
+                                    "y2": 211000
+                                },
+                                {
+                                    "class": "Rect",
                                     "layer": "PTAP",
                                     "net": "",
                                     "x1": 256000,
@@ -26991,6 +28271,26 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "N"
+                        }
+                    ],
+                    "node": "N"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "P"
+                        }
+                    ],
+                    "node": "P"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -28094,6 +29394,15 @@
                                 },
                                 {
                                     "class": "Rect",
+                                    "layer": "M1",
+                                    "net": "",
+                                    "x1": 800,
+                                    "x2": 435200,
+                                    "y1": 800,
+                                    "y2": 6400
+                                },
+                                {
+                                    "class": "Rect",
                                     "layer": "PTAP",
                                     "net": "",
                                     "x1": 0,
@@ -29117,6 +30426,15 @@
                                 },
                                 {
                                     "class": "Rect",
+                                    "layer": "M1",
+                                    "net": "",
+                                    "x1": 800,
+                                    "x2": 435200,
+                                    "y1": 205400,
+                                    "y2": 211000
+                                },
+                                {
+                                    "class": "Rect",
                                     "layer": "PTAP",
                                     "net": "",
                                     "x1": 0,
@@ -29628,6 +30946,15 @@
                                 {
                                     "class": "Rect",
                                     "layer": "OD",
+                                    "net": "",
+                                    "x1": 800,
+                                    "x2": 6400,
+                                    "y1": 800,
+                                    "y2": 211000
+                                },
+                                {
+                                    "class": "Rect",
+                                    "layer": "M1",
                                     "net": "",
                                     "x1": 800,
                                     "x2": 6400,
@@ -30155,6 +31482,15 @@
                                 },
                                 {
                                     "class": "Rect",
+                                    "layer": "M1",
+                                    "net": "",
+                                    "x1": 429600,
+                                    "x2": 435200,
+                                    "y1": 800,
+                                    "y2": 211000
+                                },
+                                {
+                                    "class": "Rect",
                                     "layer": "PTAP",
                                     "net": "",
                                     "x1": 428800,
@@ -30261,6 +31597,26 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "N"
+                        }
+                    ],
+                    "node": "N"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "P"
+                        }
+                    ],
+                    "node": "P"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -30938,6 +32294,50 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -31378,6 +32778,60 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -31818,6 +33272,60 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -32333,6 +33841,60 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -33141,6 +34703,92 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -34499,6 +36147,156 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN3",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP3",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN3",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP3",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN3",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN3",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP3",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP3",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -36957,6 +38755,284 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN3",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN4",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN5",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN6",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN7",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP3",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP4",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP5",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP6",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP7",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN3",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN4",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN5",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN6",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN7",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP3",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP4",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP5",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP6",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP7",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN3",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN3",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN4",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN4",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN5",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN5",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN6",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN6",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN7",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN7",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP3",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP3",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP4",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP4",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP5",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP5",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP6",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP6",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP7",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP7",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -37814,6 +39890,97 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -38599,6 +40766,102 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N1"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -39384,6 +41647,102 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N1"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -39788,6 +42147,74 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "YN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVDD"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVSS"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -40192,6 +42619,74 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "YN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVDD"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVSS"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -40596,6 +43091,74 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "YN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVDD"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVSS"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -41000,6 +43563,74 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "YN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVDD"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVSS"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -41404,6 +44035,74 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "YN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVDD"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVSS"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -41808,6 +44507,74 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "YN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVDD"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVSS"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -42212,6 +44979,74 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "YN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVDD"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVSS"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -43361,6 +46196,144 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "N1"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "D"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N2"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "CK"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "Q"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N3"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -44132,6 +47105,112 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N1"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "C"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N2"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "CN"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -45323,6 +48402,149 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N1"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "RN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N2"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "C"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "CN"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -46314,6 +49536,149 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "N1"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "C"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "N2"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "CN"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -48715,6 +52080,239 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA0",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA1",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA3",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA4",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA5",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA6",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA7",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA8",
+                            "node": "AVDD"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA0",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA1",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA3",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA4",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA5",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA6",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA7",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA8",
+                            "node": "AVSS"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "CK"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "XA7",
+                            "node": "RN"
+                        }
+                    ],
+                    "node": "RN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "A"
+                        },
+                        {
+                            "inst": "XA3",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XA4",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XA6",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XA7",
+                            "node": "C"
+                        }
+                    ],
+                    "node": "CKN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA3",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XA4",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XA6",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XA7",
+                            "node": "CN"
+                        }
+                    ],
+                    "node": "CKB"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA3",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "D"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA3",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA4",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA5",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A0"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA4",
+                            "node": "A"
+                        },
+                        {
+                            "inst": "XA5",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA6",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A1"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA6",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA7",
+                            "node": "Y"
+                        },
+                        {
+                            "inst": "XA8",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "QN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA7",
+                            "node": "A"
+                        },
+                        {
+                            "inst": "XA8",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Q"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -50852,6 +54450,203 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "XA3",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "XA4a",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "XA4b",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "N1"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "XA3",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "XB0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "XB1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "XA3",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "XA4a",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "XA4b",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "XA5",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "XA5",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "XB3a",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "XB3b",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA3",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "XA4a",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "XA4b",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "XA5",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "XB1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "XB3a",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "XB3b",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "XB4",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "SCO"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA4a",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "XA4b",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "XB0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "XB0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "XB1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "XB3a",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "XB3b",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "XB4",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "XB4",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA5",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "XB4",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XB0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "XB1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "XB3a",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "XB3b",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "N2"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -51736,6 +55531,97 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "VREF"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -53365,6 +57251,161 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN3",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP3",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "Y"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN3",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP3",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN3",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN3",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP3",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "VREF"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP3",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -54798,6 +58839,134 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MN1",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "G"
+                        }
+                    ],
+                    "node": "C"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN0",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "CN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN1",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MN2",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP1_DMY",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "S"
+                        }
+                    ],
+                    "node": "B"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MN2",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "A"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "MP0",
+                            "node": "D"
+                        },
+                        {
+                            "inst": "MP0",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP1_DMY",
+                            "node": "G"
+                        },
+                        {
+                            "inst": "MP1_DMY",
+                            "node": "S"
+                        },
+                        {
+                            "inst": "MP1_DMY",
+                            "node": "B"
+                        },
+                        {
+                            "inst": "MP2",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "AVDD"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -55419,6 +59588,113 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA3",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA0",
+                            "node": "AVDD"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA3",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA0",
+                            "node": "AVSS"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "CK"
+                        }
+                    ],
+                    "node": "CK"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "RN"
+                        },
+                        {
+                            "inst": "XA0",
+                            "node": "C"
+                        }
+                    ],
+                    "node": "C"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "Q"
+                        }
+                    ],
+                    "node": "NC"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "QN"
+                        },
+                        {
+                            "inst": "XA0",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "QN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA0",
+                            "node": "CN"
+                        }
+                    ],
+                    "node": "CN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA0",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -62414,6 +66690,489 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA0",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D<11>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA0",
+                            "node": "CK"
+                        },
+                        {
+                            "inst": "XB1",
+                            "node": "CK"
+                        },
+                        {
+                            "inst": "XC2",
+                            "node": "CK"
+                        },
+                        {
+                            "inst": "XD3",
+                            "node": "CK"
+                        },
+                        {
+                            "inst": "XE4",
+                            "node": "CK"
+                        },
+                        {
+                            "inst": "XF5",
+                            "node": "CK"
+                        },
+                        {
+                            "inst": "XG6",
+                            "node": "CK"
+                        },
+                        {
+                            "inst": "XH7",
+                            "node": "CK"
+                        },
+                        {
+                            "inst": "XI8",
+                            "node": "CK"
+                        },
+                        {
+                            "inst": "XJ9",
+                            "node": "CK"
+                        },
+                        {
+                            "inst": "XK10",
+                            "node": "CK"
+                        },
+                        {
+                            "inst": "XL11",
+                            "node": "CK"
+                        }
+                    ],
+                    "node": "CK"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA0",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XB1",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XC2",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XD3",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XE4",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XF5",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XG6",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XH7",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XI8",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XJ9",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XK10",
+                            "node": "C"
+                        },
+                        {
+                            "inst": "XL11",
+                            "node": "C"
+                        }
+                    ],
+                    "node": "C"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA0",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XB1",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XC2",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XD3",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XE4",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XF5",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XG6",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XH7",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XI8",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XJ9",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XK10",
+                            "node": "CN"
+                        },
+                        {
+                            "inst": "XL11",
+                            "node": "CN"
+                        }
+                    ],
+                    "node": "CN"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA0",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y<11>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA0",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XB1",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XC2",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XD3",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XE4",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XF5",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XG6",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XH7",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XI8",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XJ9",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XK10",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XL11",
+                            "node": "AVDD"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA0",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XB1",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XC2",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XD3",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XE4",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XF5",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XG6",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XH7",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XI8",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XJ9",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XK10",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XL11",
+                            "node": "AVSS"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XB1",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D<10>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XB1",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y<10>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XC2",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D<9>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XC2",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y<9>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD3",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D<8>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD3",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y<8>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XE4",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D<7>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XE4",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y<7>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XF5",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D<6>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XF5",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y<6>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XG6",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D<5>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XG6",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y<5>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XH7",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D<4>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XH7",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y<4>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XI8",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D<3>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XI8",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y<3>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XJ9",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D<2>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XJ9",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y<2>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XK10",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D<1>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XK10",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y<1>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XL11",
+                            "node": "D"
+                        }
+                    ],
+                    "node": "D<0>"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XL11",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y<0>"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -65774,6 +70533,493 @@
                 }
             },
             "class": "cIcCore::LayoutCell",
+            "graph": [
+                {
+                    "instances": [
+                        {
+                            "inst": "XA0",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA1",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XB0",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XB3",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XB4",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XB5",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XB6",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XC0",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XC7",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XD0",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XD8",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XD9",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XD10",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XD11",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XE0",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XE12",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XF0",
+                            "node": "AVDD"
+                        },
+                        {
+                            "inst": "XF15",
+                            "node": "AVDD"
+                        }
+                    ],
+                    "node": "AVDD"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA0",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA1",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XA2",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XB0",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XB3",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XB4",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XB5",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XB6",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XC0",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XC7",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XD0",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XD8",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XD9",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XD10",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XD11",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XE0",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XE12",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XF0",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XF13",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XF14",
+                            "node": "AVSS"
+                        },
+                        {
+                            "inst": "XF15",
+                            "node": "AVSS"
+                        }
+                    ],
+                    "node": "AVSS"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA1",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y1"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XA2",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y2"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XB3",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A3"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XB3",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y3"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XB4",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A4"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XB4",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y4"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XB5",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A5"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XB5",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y5"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XB6",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A6"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XB6",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y6"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XC7",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A7"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XC7",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y7"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD8",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A8"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD8",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B8"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD8",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y8"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD9",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A9"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD9",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B9"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD9",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y9"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD10",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A10"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD10",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B10"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD10",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y10"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD11",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A11"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD11",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "B11"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XD11",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y11"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XE12",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A12"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XE12",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y12"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XF13",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A13"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XF13",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y13"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XF13",
+                            "node": "VREF"
+                        }
+                    ],
+                    "node": "V13"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XF14",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "A14"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XF14",
+                            "node": "Y"
+                        }
+                    ],
+                    "node": "Y14"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XF14",
+                            "node": "VREF"
+                        }
+                    ],
+                    "node": "V14"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XF15",
+                            "node": "C"
+                        }
+                    ],
+                    "node": "A15"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XF15",
+                            "node": "A"
+                        }
+                    ],
+                    "node": "Y15"
+                },
+                {
+                    "instances": [
+                        {
+                            "inst": "XF15",
+                            "node": "B"
+                        }
+                    ],
+                    "node": "V15"
+                }
+            ],
             "has_pr": false,
             "layer": "PR",
             "libcell": false,
@@ -84470,14 +89716,14 @@
         }
     ],
     "info": {
-        "arguments": "/Users/wulff/lpro/aicex/ip/sun_tr_sky130nm/design/../../ciccreator/bin/darwin/cic.app/Contents/MacOS/cic ../cic/ip.json ../cic/sky130.tech SUN_TR_SKY130NM",
+        "arguments": "/Users/wulff/pro/aicex/ip/sun_tr_sky130nm/design/../../ciccreator/bin/darwin/cic.app/Contents/MacOS/cic ../cic/ip.json ../cic/sky130.tech SUN_TR_SKY130NM",
         "file": "../cic/ip.json",
-        "hash": "0.1.5-1-g9e82eba",
+        "hash": "0.1.5-3-g70b1d0e",
         "includepaths": "../cic",
         "libpaths": "",
         "library": "SUN_TR_SKY130NM",
         "prefix": "",
         "rules": "../cic/sky130.tech",
-        "version": "0.1.5+ built on Sun Jan 22 22:15:32 CET 2023"
+        "version": "0.1.5+ built on Thu Apr 6 21:24:36 CEST 2023"
     }
 }

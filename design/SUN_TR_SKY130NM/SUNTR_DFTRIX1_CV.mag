@@ -1,7 +1,7 @@
 magic
 tech sky130B
 magscale 1 2
-timestamp 1672527600
+timestamp 1680904800
 << checkpaint >>
 rect 0 0 2520 6336
 << locali >>
@@ -32,17 +32,19 @@ transform 1 0 0 0 1 5632
 box 0 5632 2520 6336
 << labels >>
 flabel locali s 1980 1906 2196 1966 0 FreeSans 400 0 0 0 D
-port 1 nsew
+port 1 nsew signal bidirectional
 flabel locali s 324 6130 540 6190 0 FreeSans 400 0 0 0 C
-port 3 nsew
+port 3 nsew signal bidirectional
 flabel locali s 324 850 540 910 0 FreeSans 400 0 0 0 CK
-port 2 nsew
+port 2 nsew signal bidirectional
 flabel locali s 1980 6130 2196 6190 0 FreeSans 400 0 0 0 CN
-port 4 nsew
+port 4 nsew signal bidirectional
 flabel locali s 756 6218 972 6278 0 FreeSans 400 0 0 0 Y
-port 5 nsew
+port 5 nsew signal bidirectional
 flabel m3 s 1548 0 1748 6336 0 FreeSans 400 0 0 0 AVDD
-port 6 nsew
+port 6 nsew signal bidirectional
 flabel m3 s 756 0 956 6336 0 FreeSans 400 0 0 0 AVSS
-port 7 nsew
+port 7 nsew signal bidirectional
+<< properties >>
+string FIXED_BBOX 0 0 2520 6336
 << end >>
