@@ -1,7 +1,7 @@
 magic
 tech sky130B
 magscale 1 2
-timestamp 1680904800
+timestamp 1707433200
 << checkpaint >>
 rect 0 0 2520 6336
 << locali >>
@@ -21,13 +21,13 @@ rect 1548 0 1748 6336
 rect 756 0 956 6336
 rect 1548 0 1748 6336
 rect 756 0 956 6336
-use SUNTR_TAPCELLB_CV XA3
+use SUNTR_TAPCELLB_CV XA3 
 transform 1 0 0 0 1 0
 box 0 0 2520 352
-use SUNTR_DFRNQNX1_CV XA2
+use SUNTR_DFRNQNX1_CV XA2 
 transform 1 0 0 0 1 352
 box 0 352 2520 5632
-use SUNTR_IVTRIX1_CV XA0
+use SUNTR_IVTRIX1_CV XA0 
 transform 1 0 0 0 1 5632
 box 0 5632 2520 6336
 << labels >>

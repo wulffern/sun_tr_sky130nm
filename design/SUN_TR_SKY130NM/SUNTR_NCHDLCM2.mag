@@ -1,7 +1,7 @@
 magic
 tech sky130B
 magscale 1 2
-timestamp 1680904800
+timestamp 1707433200
 << checkpaint >>
 rect 0 0 1260 3520
 << locali >>
@@ -14,10 +14,10 @@ rect -108 132 108 220
 rect 756 1642 972 1702
 rect 324 146 540 206
 rect 756 58 972 118
-use SUNTR_NCHDLCM M0
+use SUNTR_NCHDLCM M0 
 transform 1 0 0 0 1 0
 box 0 0 1260 1760
-use SUNTR_NCHDLCM M1
+use SUNTR_NCHDLCM M1 
 transform 1 0 0 0 1 1760
 box 0 1760 1260 3520
 << labels >>

@@ -1,7 +1,7 @@
 magic
 tech sky130B
 magscale 1 2
-timestamp 1680904800
+timestamp 1707433200
 << checkpaint >>
 rect 0 0 2672 4236
 << locali >>
@@ -179,7 +179,7 @@ rect 0 0 2672 144
 rect 0 4092 2672 4236
 rect 0 0 144 4236
 rect 2528 0 2672 4236
-use SUNTR_RES2 XA1
+use SUNTR_RES2 XA1 
 transform 1 0 688 0 1 688
 box 688 688 1984 3548
 << labels >>
