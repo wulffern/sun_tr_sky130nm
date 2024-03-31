@@ -3,11 +3,6 @@ K {type=subcircuit
 format="@name @pinlist @symname "
 template="name=x1 "
 } 
-G {}
-K {}
-V {}
-S {}
-E {}
 L 4 0 -30 10 -30 {}
 L 4 10 -40 10 -30 {}
 L 4 10 -40 20 -30 {}
