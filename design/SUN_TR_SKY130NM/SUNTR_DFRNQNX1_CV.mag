@@ -1,166 +1,189 @@
 magic
 tech sky130B
-magscale 1 2
-timestamp 1709161200
-<< checkpaint >>
-rect 0 0 2520 5280
+timestamp 1728046668
 << locali >>
-rect 1656 586 1824 646
-rect 1824 1142 2040 1202
-rect 1824 586 1884 1202
-rect 1980 1202 2088 1262
-rect 1656 1290 1824 1350
-rect 1824 1906 2088 1966
-rect 1824 4722 2088 4782
-rect 1824 1290 1884 4782
-rect 432 2610 600 2670
-rect 600 1290 864 1350
-rect 600 1290 660 2670
-rect 480 3606 600 3666
-rect 600 1290 864 1350
-rect 600 1290 660 3666
-rect 432 3666 540 3726
-rect 864 1994 1032 2054
-rect 864 2698 1032 2758
-rect 1032 1994 1092 2758
-rect 432 5074 600 5134
-rect 600 4810 864 4870
-rect 600 4810 660 5134
-rect 1980 1554 2196 1614
-rect 324 498 540 558
-rect 756 5162 972 5222
-rect 756 4810 972 4870
-rect 324 4018 540 4078
-<< m1 >>
-rect 2088 2610 2256 2670
-rect 2088 3666 2256 3726
-rect 1656 586 2256 646
-rect 2256 586 2316 3726
-rect 480 1846 600 1906
-rect 600 938 864 998
-rect 600 938 660 1906
-rect 432 1906 540 1966
-rect 864 3754 1032 3814
-rect 864 4810 1032 4870
-rect 1032 3754 1092 4870
-rect 432 2962 600 3022
-rect 600 2698 864 2758
-rect 600 2698 660 3022
-rect 1656 3050 1824 3110
-rect 1824 2258 2088 2318
-rect 1824 3314 2088 3374
-rect 1824 2258 1884 3374
-rect 1656 5162 1824 5222
-rect 1824 4370 2088 4430
-rect 1824 4370 1884 5222
-rect 204 850 432 910
-rect 204 4018 432 4078
-rect 204 850 264 4078
-<< m2 >>
-rect 432 4722 604 4798
-rect 604 3666 2088 3742
-rect 604 3666 680 4798
-<< m3 >>
-rect 1548 0 1748 5280
-rect 756 0 956 5280
-rect 1548 0 1748 5280
-rect 756 0 956 5280
-use SUNTR_TAPCELLB_CV XA0 
+rect 378 2581 486 2611
+rect 216 2537 330 2567
+rect 300 2435 330 2537
+rect 300 2405 486 2435
+rect 912 2361 1044 2391
+rect 162 2009 270 2039
+rect 216 1833 270 1863
+rect 240 1803 330 1833
+rect 300 1335 330 1803
+rect 432 1349 546 1379
+rect 216 1305 330 1335
+rect 300 675 330 1305
+rect 516 1027 546 1349
+rect 432 997 546 1027
+rect 912 983 942 2361
+rect 912 953 1044 983
+rect 912 675 942 953
+rect 990 777 1098 807
+rect 300 645 432 675
+rect 828 645 942 675
+rect 990 601 1044 631
+rect 912 571 1020 601
+rect 912 323 942 571
+rect 828 293 942 323
+rect 162 249 270 279
+<< metal1 >>
+rect 828 2581 942 2611
+rect 432 2405 546 2435
+rect 102 2009 216 2039
+rect 102 455 132 2009
+rect 516 1907 546 2405
+rect 912 2215 942 2581
+rect 912 2185 1044 2215
+rect 432 1877 546 1907
+rect 1044 1833 1158 1863
+rect 912 1657 1044 1687
+rect 912 1555 942 1657
+rect 828 1525 942 1555
+rect 216 1481 330 1511
+rect 300 1379 330 1481
+rect 300 1349 432 1379
+rect 912 1159 942 1525
+rect 1128 1335 1158 1833
+rect 1044 1305 1158 1335
+rect 912 1129 1044 1159
+rect 216 953 270 983
+rect 240 923 330 953
+rect 300 499 330 923
+rect 300 469 432 499
+rect 102 425 216 455
+rect 1128 323 1158 1305
+rect 828 293 1158 323
+<< metal2 >>
+rect 216 2361 340 2399
+rect 302 1871 340 2361
+rect 302 1833 1044 1871
+<< metal3 >>
+rect 378 0 478 2640
+rect 774 0 874 2640
+use SUNTR_TAPCELLB_CV  XA0
+timestamp 1728046668
 transform 1 0 0 0 1 0
-box 0 0 2520 352
-use SUNTR_NDX1_CV XA1 
-transform 1 0 0 0 1 352
-box 0 352 2520 1056
-use SUNTR_IVX1_CV XA2 
+box -90 -66 1350 242
+use SUNTR_NDX1_CV  XA1
+timestamp 1728046668
+transform 1 0 0 0 1 176
+box -90 -66 1350 418
+use SUNTR_IVX1_CV  XA2
+timestamp 1728046668
+transform 1 0 0 0 1 528
+box -90 -66 1350 242
+use SUNTR_IVTRIX1_CV  XA3
+timestamp 1728046668
+transform 1 0 0 0 1 704
+box -90 -66 1350 418
+use SUNTR_IVTRIX1_CV  XA4
+timestamp 1728046668
 transform 1 0 0 0 1 1056
-box 0 1056 2520 1408
-use SUNTR_IVTRIX1_CV XA3 
+box -90 -66 1350 418
+use SUNTR_IVX1_CV  XA5
+timestamp 1728046668
 transform 1 0 0 0 1 1408
-box 0 1408 2520 2112
-use SUNTR_IVTRIX1_CV XA4 
-transform 1 0 0 0 1 2112
-box 0 2112 2520 2816
-use SUNTR_IVX1_CV XA5 
-transform 1 0 0 0 1 2816
-box 0 2816 2520 3168
-use SUNTR_IVTRIX1_CV XA6 
-transform 1 0 0 0 1 3168
-box 0 3168 2520 3872
-use SUNTR_NDTRIX1_CV XA7 
-transform 1 0 0 0 1 3872
-box 0 3872 2520 4928
-use SUNTR_IVX1_CV XA8 
-transform 1 0 0 0 1 4928
-box 0 4928 2520 5280
-use SUNTR_cut_M1M2_2x1 xcut0 
-transform 1 0 1980 0 1 2610
-box 1980 2610 2164 2678
-use SUNTR_cut_M1M2_2x1 xcut1 
-transform 1 0 1980 0 1 3666
-box 1980 3666 2164 3734
-use SUNTR_cut_M1M2_2x1 xcut2 
-transform 1 0 1548 0 1 586
-box 1548 586 1732 654
-use SUNTR_cut_M1M2_2x1 xcut3 
-transform 1 0 324 0 1 1906
-box 324 1906 508 1974
-use SUNTR_cut_M1M2_2x1 xcut4 
-transform 1 0 756 0 1 938
-box 756 938 940 1006
-use SUNTR_cut_M1M3_2x1 xcut5 
-transform 1 0 324 0 1 4722
-box 324 4722 524 4798
-use SUNTR_cut_M1M3_2x1 xcut6 
-transform 1 0 1980 0 1 3666
-box 1980 3666 2180 3742
-use SUNTR_cut_M1M2_2x1 xcut7 
-transform 1 0 756 0 1 3754
-box 756 3754 940 3822
-use SUNTR_cut_M1M2_2x1 xcut8 
-transform 1 0 756 0 1 4810
-box 756 4810 940 4878
-use SUNTR_cut_M1M2_2x1 xcut9 
-transform 1 0 324 0 1 2962
-box 324 2962 508 3030
-use SUNTR_cut_M1M2_2x1 xcut10 
-transform 1 0 756 0 1 2698
-box 756 2698 940 2766
-use SUNTR_cut_M1M2_2x1 xcut11 
-transform 1 0 1548 0 1 3050
-box 1548 3050 1732 3118
-use SUNTR_cut_M1M2_2x1 xcut12 
-transform 1 0 1980 0 1 2258
-box 1980 2258 2164 2326
-use SUNTR_cut_M1M2_2x1 xcut13 
-transform 1 0 1980 0 1 3314
-box 1980 3314 2164 3382
-use SUNTR_cut_M1M2_2x1 xcut14 
-transform 1 0 1548 0 1 5162
-box 1548 5162 1732 5230
-use SUNTR_cut_M1M2_2x1 xcut15 
-transform 1 0 1980 0 1 4370
-box 1980 4370 2164 4438
-use SUNTR_cut_M1M2_2x1 xcut16 
-transform 1 0 324 0 1 850
-box 324 850 508 918
-use SUNTR_cut_M1M2_2x1 xcut17 
-transform 1 0 324 0 1 4018
-box 324 4018 508 4086
+box -90 -66 1350 242
+use SUNTR_IVTRIX1_CV  XA6
+timestamp 1728046668
+transform 1 0 0 0 1 1584
+box -90 -66 1350 418
+use SUNTR_NDTRIX1_CV  XA7
+timestamp 1728046668
+transform 1 0 0 0 1 1936
+box -90 -66 1350 594
+use SUNTR_IVX1_CV  XA8
+timestamp 1728046668
+transform 1 0 0 0 1 2464
+box -90 -66 1350 242
+use SUNTR_cut_M1M2_2x1  xcut0
+timestamp 1709161200
+transform 1 0 990 0 1 1305
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut1
+timestamp 1709161200
+transform 1 0 990 0 1 1833
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut2
+timestamp 1709161200
+transform 1 0 774 0 1 293
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut3
+timestamp 1709161200
+transform 1 0 162 0 1 953
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut4
+timestamp 1709161200
+transform 1 0 378 0 1 469
+box 0 0 92 34
+use SUNTR_cut_M1M3_2x1  xcut5
+timestamp 1709161200
+transform 1 0 162 0 1 2361
+box 0 0 100 38
+use SUNTR_cut_M1M3_2x1  xcut6
+timestamp 1709161200
+transform 1 0 990 0 1 1833
+box 0 0 100 38
+use SUNTR_cut_M1M2_2x1  xcut7
+timestamp 1709161200
+transform 1 0 378 0 1 1877
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut8
+timestamp 1709161200
+transform 1 0 378 0 1 2405
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut9
+timestamp 1709161200
+transform 1 0 162 0 1 1481
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut10
+timestamp 1709161200
+transform 1 0 378 0 1 1349
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut11
+timestamp 1709161200
+transform 1 0 774 0 1 1525
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut12
+timestamp 1709161200
+transform 1 0 990 0 1 1129
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut13
+timestamp 1709161200
+transform 1 0 990 0 1 1657
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut14
+timestamp 1709161200
+transform 1 0 774 0 1 2581
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut15
+timestamp 1709161200
+transform 1 0 990 0 1 2185
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut16
+timestamp 1709161200
+transform 1 0 162 0 1 425
+box 0 0 92 34
+use SUNTR_cut_M1M2_2x1  xcut17
+timestamp 1709161200
+transform 1 0 162 0 1 2009
+box 0 0 92 34
 << labels >>
-flabel locali s 1980 1554 2196 1614 0 FreeSans 400 0 0 0 D
+flabel locali s 990 777 1098 807 0 FreeSans 200 0 0 0 D
 port 1 nsew signal bidirectional
-flabel locali s 324 498 540 558 0 FreeSans 400 0 0 0 CK
+flabel locali s 162 249 270 279 0 FreeSans 200 0 0 0 CK
 port 2 nsew signal bidirectional
-flabel locali s 756 5162 972 5222 0 FreeSans 400 0 0 0 Q
+flabel locali s 378 2581 486 2611 0 FreeSans 200 0 0 0 Q
 port 4 nsew signal bidirectional
-flabel locali s 756 4810 972 4870 0 FreeSans 400 0 0 0 QN
+flabel locali s 378 2405 486 2435 0 FreeSans 200 0 0 0 QN
 port 5 nsew signal bidirectional
-flabel m3 s 1548 0 1748 5280 0 FreeSans 400 0 0 0 AVDD
+flabel metal3 s 774 0 874 2640 0 FreeSans 200 0 0 0 AVDD
 port 6 nsew signal bidirectional
-flabel m3 s 756 0 956 5280 0 FreeSans 400 0 0 0 AVSS
+flabel metal3 s 378 0 478 2640 0 FreeSans 200 0 0 0 AVSS
 port 7 nsew signal bidirectional
-flabel locali s 324 4018 540 4078 0 FreeSans 400 0 0 0 RN
+flabel locali s 162 2009 270 2039 0 FreeSans 200 0 0 0 RN
 port 3 nsew signal bidirectional
 << properties >>
-string FIXED_BBOX 0 0 2520 5280
+string FIXED_BBOX 0 0 1260 2640
 << end >>
